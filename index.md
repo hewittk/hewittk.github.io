@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/hewittk/hewittk.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Kiley Hewitt. I am a Junior double majoring in Computer Science and Biology at Allegheny College. I am very interested in the interdisciplinary applications of Computer Science in research and in product design. As a board member of Women in Science and Association for Computing Machinery, and as a fairly regular participant in academic department and other community events, I am also passionate about Science outreach and building community around Science. I am looking to build my experience in interdisciplinary areas of Science through research and internships throughout my undergraduate education before attending graduate school for a topic related to Computational Biology.
 
 ### Markdown
 
