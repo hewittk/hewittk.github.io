@@ -2,6 +2,14 @@
 
 My name is Kiley Hewitt. I am a Junior double majoring in Computer Science and Biology at Allegheny College. I am very interested in the interdisciplinary applications of Computer Science in research and in product design. As a board member of Women in Science and Association for Computing Machinery, and as a fairly regular participant in academic department and other community events, I am also passionate about Science outreach and building community around Science. I am looking to build my experience in interdisciplinary areas of Science through research and internships throughout my undergraduate education before attending graduate school for a subject related to Computational Biology.
 
+## Projects
+
+[Chronic Disease Risk Calculator](https://github.com/Allegheny-Computer-Science-202-S2020/cs202s2020-final-project-hewittk)
+[Methods of Developing Causal Gene Regulatory Networks of Dynamic Single Cell Data](<./Kiley Hewitt Resume.pdf>)
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
