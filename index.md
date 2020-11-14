@@ -8,37 +8,13 @@ My name is Kiley Hewitt. I am a Junior double majoring in Computer Science and B
 
 [Methods of Developing Causal Gene Regulatory Networks of Dynamic Single Cell Data](<./Kiley Hewitt TECBio Poster.pdf>)
 
+[Metabolic Proteins in Climate Regulation](https://github.com/allegheny-bioinformatics-300-f2019/project-warbler/blob/master/writing/finalReport/finalReport.md)
 
 
+## Contact
+[Linkedln](https://www.linkedin.com/in/kiley-hewitt-3babaa197/)
 
-### Markdown
+[Github](https://github.com/hewittk)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email: hewittk@allegheny.edu
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hewittk/hewittk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
