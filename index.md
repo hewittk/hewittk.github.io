@@ -6,7 +6,7 @@ My name is Kiley Hewitt. I am a Junior double majoring in Computer Science and B
 
 [Chronic Disease Risk Calculator](https://github.com/Allegheny-Computer-Science-202-S2020/cs202s2020-final-project-hewittk)
 
-[Methods of Developing Causal Gene Regulatory Networks of Dynamic Single Cell Data](<./Kiley Hewitt Resume.pdf>)
+[Methods of Developing Causal Gene Regulatory Networks of Dynamic Single Cell Data](<./Kiley Hewitt TECBio Poster.pdf>)
 
 
 
