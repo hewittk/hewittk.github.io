@@ -7,6 +7,9 @@ Coursework over my past two years at Allegheny College has introduced me to the 
 ## Projects
 
 [Chronic Disease Risk Calculator](https://github.com/Allegheny-Computer-Science-202-S2020/cs202s2020-final-project-hewittk)
+For my algorithm analysis final, I built a series of algorithms that would calculate one's risk for different chronic diseases based on their health, genetic, and lifestyle factors. I worked to make the algorithms in this project efficient by streamlining the comparison of the answers to the user's health and lifestyle questionnare to the risk factors for each chronic disease by designing standing risk factor arrays for each disease that can be efficiently compared against a different array that stored the user's answers during the questionnare. 
+
+![Chronic Disease Risk Array Flowchart](<./Chronic Disease Risk Flowchart.png>)
 
 [Methods of Developing Causal Gene Regulatory Networks of Dynamic Single Cell Data](<./Kiley Hewitt TECBio Poster.pdf>)
 
@@ -22,7 +25,7 @@ The first causal inference assumption that I challenged was the assumption of st
 ![Flowchart](<./GRN Flowchart.png>)
 
 
-For my Senior project, I am planning to do a project focused on the effect of glucocorticoids on cornea gene expression after estrogen depletion. The eyes have recently started to be viewed as an organ with sexual dimorphism and menopausal estrogen depletion leads to issues in the cornea such as tear film damage and decreased corneal thickness. Glucocorticoid steroid hormone treatment has a role in preventing and mitigating these same conditions. My research aims to derive corneal pathways affected by both glucocorticoids and estrogens using methods such as ordinary differential equation (ODE) analysis of RNA datasets and to test the possible role of local glucocorticoid repletion in reversing the corneal damage effects of estrogen depletion.
+For my Senior project, I am planning to conduct a project focused on the effect of glucocorticoids on cornea gene expression after estrogen depletion. The eyes have recently started to be viewed as an organ with sexual dimorphism and menopausal estrogen depletion leads to issues in the cornea such as tear film damage and decreased corneal thickness. Glucocorticoid steroid hormone treatment has a role in preventing and mitigating these same conditions. My research aims to derive corneal pathways affected by both glucocorticoids and estrogens using methods such as ordinary differential equation (ODE) analysis of RNA datasets and to test the possible role of local glucocorticoid repletion in reversing the corneal damage effects of estrogen depletion.
 
 
 ## Contact
