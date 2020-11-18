@@ -9,7 +9,7 @@ Coursework over my past two years at Allegheny College has introduced me to the 
 [Chronic Disease Risk Calculator](https://github.com/Allegheny-Computer-Science-202-S2020/cs202s2020-final-project-hewittk)
 For my algorithm analysis final, I built a series of algorithms that would calculate one's risk for different chronic diseases based on their health, genetic, and lifestyle factors. I worked to make the algorithms in this project efficient by streamlining the comparison of the answers to the user's health and lifestyle questionnare to the risk factors for each chronic disease by designing standing risk factor arrays for each disease that can be efficiently compared against a different array that stored the user's answers during the questionnare. 
 
-![Chronic Disease Risk Array Flowchart|50%](<./Chronic Disease Risk Flowchart Resized.png>)
+![Chronic Disease Risk Array Flowchart|70%](<./Chronic Disease Risk Flowchart Resized.png>)
 
 [Methods of Developing Causal Gene Regulatory Networks of Dynamic Single Cell Data](<./Kiley Hewitt TECBio Poster.pdf>)
 
@@ -22,7 +22,7 @@ Over the summer of 2020, I conducted Computational Biology research through the 
 
 The first causal inference assumption that I challenged was the assumption of stationarity stating that variables in a graph are in equilibrium and do not change over time which makes it traditionally unsuitable for learning gene regulatory networks of datasets with dynamic gene expression. I challenged this assumption by creating undirected graphs in which the latent time is seen as a dynamic variable and the expression of some genes in a pathway are mapped as a descendent of time. The second causal inference assumption that I challenged was the assumption of linearity stating that variables in a graph have only linear, monotonic relationships which is often untrue of the signaling effects between genes. I challenged this assumption by using Nonparanormal Data Transform to make any consistent increase or decrease shown in gene expression comprehensible by the linear regression tools that build the undirected graph.
 
-![Flowchart](<./GRN Flowchart.png>)
+![Flowchart|60%](<./GRN Flowchart.png>)
 
 
 For my Senior project, I am planning to conduct a project focused on the effect of glucocorticoids on cornea gene expression after estrogen depletion. The eyes have recently started to be viewed as an organ with sexual dimorphism and menopausal estrogen depletion leads to issues in the cornea such as tear film damage and decreased corneal thickness. Glucocorticoid steroid hormone treatment has a role in preventing and mitigating these same conditions. My research aims to derive corneal pathways affected by both glucocorticoids and estrogens using methods such as ordinary differential equation (ODE) analysis of RNA datasets and to test the possible role of local glucocorticoid repletion in reversing the corneal damage effects of estrogen depletion.
