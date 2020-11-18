@@ -12,7 +12,6 @@ My name is Kiley Hewitt. I am a Junior at Allegheny College double majoring in C
 
 ## Research
 
-Over the summer of 2020, I participated in the TECBio REU at University of Pittsburgh. I worked in the Benos lab on challenging different causal inference assumptions to feasibly map gene regulatory networks. The first assumption that I worked to challenge was the assumption of stationarity, that variables in a graph are in equilibrium and do not change over time.
 
 Over the summer of 2020, I conducted Computational Biology research through the TECBio REU at the University of Pittsburgh. My project was to challenge existing methods of learning causal graphical models to better suit gene regulatory networks to be learned from the dynamic single cell data that gene expression tracking methods often provide. I did this by using various methods such as RNA velocity analysis, Graphical Lasso regression, and monitoring of accuracy through different correlation metrics to make undirected graphs with suitable connectivity to be learned by the lab’s causal inference algorithms.
 
