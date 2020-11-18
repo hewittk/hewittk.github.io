@@ -7,11 +7,14 @@ Coursework over my past two years at Allegheny College has introduced me to the 
 ## Projects
 
 [Chronic Disease Risk Calculator](https://github.com/Allegheny-Computer-Science-202-S2020/cs202s2020-final-project-hewittk)
+
 For my algorithm analysis final, I built a series of algorithms that would calculate one's risk for different chronic diseases based on their health, genetic, and lifestyle factors. I worked to make the algorithms in this project efficient by streamlining the comparison of the answers to the user's health and lifestyle questionnare to the risk factors for each chronic disease by designing standing risk factor arrays for each disease that can be efficiently compared against a different array that stored the user's answers during the questionnare. 
 
 ![Chronic Disease Risk Array Flowchart](<./Chronic Disease Risk Flowchart Resized.png>)
 
 [Methods of Developing Causal Gene Regulatory Networks of Dynamic Single Cell Data](<./Kiley Hewitt TECBio Poster.pdf>)
+
+My Summer 2020 research project was on developing and testing different methods of developing causal gene regulatory networks from dynamic single cell data. I used different methods to modify the genetic data's linear regression protocols to fit dynamic datasets and better account for nonlinear signaling connections between genes, and designed programs to quantify different aspects of the resembelance between the directed network graphs learned by the causal inference algorithms and the true graphs.
 
 [Metabolic Proteins in Climate Regulation](https://github.com/allegheny-bioinformatics-300-f2019/project-warbler/blob/master/writing/finalReport/finalReport.md)
 
