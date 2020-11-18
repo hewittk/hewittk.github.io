@@ -10,6 +10,9 @@ My name is Kiley Hewitt. I am a Junior double majoring in Computer Science and B
 
 [Metabolic Proteins in Climate Regulation](https://github.com/allegheny-bioinformatics-300-f2019/project-warbler/blob/master/writing/finalReport/finalReport.md)
 
+## Research
+
+Over the summer of 2020, I participated in the TECBio REU at University of Pittsburgh. I worked in the Benos lab on challenging different causal inference assumptions to feasibly map gene regulatory networks. The first assumption that I worked to challenge was the assumption of stationarity, that variables in a graph are in equilibrium and do not change over time.
 
 ## Contact
 [Linkedln](https://www.linkedin.com/in/kiley-hewitt-3babaa197/)
