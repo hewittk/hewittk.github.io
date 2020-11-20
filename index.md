@@ -18,6 +18,8 @@ My Summer 2020 research project was on developing and testing different methods 
 
 ### [Metabolic Proteins in Climate Regulation](https://github.com/allegheny-bioinformatics-300-f2019/project-warbler/blob/master/writing/finalReport/finalReport.md)
 
+For my Bioinformatics class final, my lab group and I investigated the genetic basis for invasive species of birds' adaptability to new climates. We conducted BLAST analysis on
+
 ## Research
 
 ### TECBio REU: Challenging Assumptions of Causal Inference
