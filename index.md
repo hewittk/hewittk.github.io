@@ -42,3 +42,4 @@ For my Senior project, I am planning to conduct a project focused on the effect 
 
 Email: hewittk@allegheny.edu
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-21RZLWGDF-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', '{{ site.google_analytics }}'); </script>
