@@ -18,7 +18,7 @@ My Summer 2020 research project was on developing and testing different methods 
 
 ### [Metabolic Proteins in Climate Regulation](https://github.com/allegheny-bioinformatics-300-f2019/project-warbler/blob/master/writing/finalReport/finalReport.md)
 
-For my Bioinformatics class final, my lab group and I investigated the genetic basis for invasive species of birds' adaptability to new climates. We conducted a BLAST analysis to find genetic similarities between birds
+For my Bioinformatics class final, I collaborated with my lab group to find genetic basis for invasive species of birds' adaptability to new climates. We conducted a BLAST analysis to find genetic similarities between invasive birds native to cold climates that are able to adapt to and invade warm climates. We found similarities in these invasive species to birds that are native to warm climates in two genes: a metabolic protein involved in temperature regulation called Cytochrome c Oxidase and another metabolic protein known as NADH dehydrogenase.
 
 ## Research
 
