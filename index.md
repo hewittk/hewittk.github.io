@@ -4,6 +4,9 @@ My name is Kiley Hewitt. I am a Junior at Allegheny College double majoring in C
 
 Coursework over my past two years at Allegheny College has introduced me to the many applications of Computer Science and Biology in this world, and also showed me the potential in the applications of computational methods to the natural sciences. Applying computational methods to immunology research at the University of Pittburgh and developing Bioinformatics applications as a software engineer at Allegheny College has given me baseline experience in these interdisciplinary applications that confirmed my interests in these areas. In the future, I am looking to expand my experience in these applications through work and research opportunities. I am particularly interested in opportunities surrounding genetic or immunology research, and am also looking for any opportunities to build my Computer Science skills through software engineering or cybersecurity.
 
+![Attached is a copy of my resume](<./Kiley Hewitt Resume.pdf>)
+
+
 ## Projects
 
 ### [Chronic Disease Risk Calculator](https://github.com/Allegheny-Computer-Science-202-S2020/cs202s2020-final-project-hewittk)
